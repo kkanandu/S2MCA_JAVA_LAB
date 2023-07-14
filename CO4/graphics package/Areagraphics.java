@@ -1,14 +1,14 @@
-import Graphics.*;
+import graphics.*;
 import java.util.Scanner;
 class Areapackage
 {
 public static void main(String args[])
 {
 Scanner sc=new Scanner(System.in);
-Graphics12.Rectp r1=new Graphics12.Rectp();
-Graphics12.Circlep c1=new Graphics12.Circlep();
-Graphics12.Squarep s1=new Graphics12.Squarep();
-Graphics12.Trianglep t1=new Graphics12.Trianglep();
+graphics12.Rectp r1=new graphics12.Rectp();
+graphics12.Circlep c1=new graphics12.Circlep();
+graphics12.Squarep s1=new graphics12.Squarep();
+graphics12.Trianglep t1=new graphics12.Trianglep();
 r1.get1();
 r1.show1();
 c1.get2();
