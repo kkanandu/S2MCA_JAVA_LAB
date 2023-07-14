@@ -1,4 +1,4 @@
-package Graphics;
+package graphics;
 import java.util.Scanner;
 interface Area2
 {
